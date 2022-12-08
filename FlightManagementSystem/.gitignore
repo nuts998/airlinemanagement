@@ -1,0 +1,18 @@
+HELP.md
+stuff.txt
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+node_modules/
+
+
+### IntelliJ IDEA ###
+.idea
+.env
+*.iws
+*.iml
+*.ipr
+
+
+
